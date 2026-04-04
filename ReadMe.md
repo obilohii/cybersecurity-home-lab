@@ -1,31 +1,44 @@
 # Cybersecurity Home Lab
 
 ## Overview
-This repository documents my progress as I build my cybersecurity home lab and continue transitioning into the cybersecurity field.
+This repository documents my journey transitioning into cybersecurity, with a focus on building hands-on experience using tools like Kali Linux, Wireshark, Nmap, and other SOC-relevant technologies.
 
-## What I worked on today
-- Set up my GitHub repository for documenting lab progress
-- Started setting up Kali Linux in my virtual environment
-- Worked through initial configuration steps
-- Explored basic networking information inside Kali Linux
-- Began learning how Kali Linux fits into a cybersecurity lab environment
+## Day 1 — Lab Setup & Environment Initialization
 
-## Notes from today
-Today was focused on getting the environment ready and understanding the setup process. I also ran into a few beginner setup issues, which helped me become more familiar with the system and troubleshooting process.
+### What I worked on
+- Created and structured my GitHub repository for tracking progress
+- Installed and began configuring Kali Linux in a virtual environment
+- Navigated initial setup and system configuration steps
+- Explored basic networking information within Kali Linux
+- Began understanding how Kali Linux fits into a cybersecurity lab
 
-## Tools used
-- Kali Linux
-- Virtualization software
-- GitHub
+---
 
-## What I learned
-- Kali Linux is a Linux distribution designed for cybersecurity work
-- Documentation is important for tracking technical progress
-- Setting up a home lab takes patience and troubleshooting
+## Notes from Today
+Today was focused on environment setup and getting comfortable inside Kali Linux.  
+I encountered several beginner issues during setup, which helped me start developing troubleshooting skills and become more familiar with how Linux systems behave.
 
-## Next steps
-- Finish configuring Kali Linux
-- Learn basic Linux commands
-- Practice networking commands
-- Begin using beginner-friendly cybersecurity tools in the lab
+This was my first step in moving from theory into hands-on cybersecurity work.
 
+---
+
+## Tools Used
+- Kali Linux  
+- Virtual Machine (VirtualBox / UTM)  
+- GitHub  
+
+---
+
+## What I Learned
+- Kali Linux is a specialized Linux distribution used for penetration testing and security analysis  
+- Setting up a lab environment requires patience and problem-solving  
+- Documentation is important for tracking progress and reinforcing learning  
+- Even simple setup steps can introduce real-world troubleshooting scenarios  
+
+---
+
+## Next Steps
+- Complete Kali Linux configuration  
+- Learn and practice basic Linux commands  
+- Begin networking fundamentals (IP, interfaces, scanning)  
+- Start using tools like Nmap and Wireshark  
